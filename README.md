@@ -22,13 +22,17 @@ It follows **official GCUF grading rules** to give accurate results every time.
 
 ## 📸 Screenshots
 
-| | | |
-|---|---|---|
-| ![1](Screenshots/1.png) | ![2](Screenshots/2.png) | ![3](Screenshots/3.png) |
-| ![4](Screenshots/4.png) | ![5](Screenshots/5.png) | ![6](Screenshots/6.png) |
-| ![7](Screenshots/7.png) | ![8](Screenshots/8.png) | ![9](Screenshots/9.png) |
-
----
+<div style="display: flex; overflow-x: auto; gap: 10px;">
+  <img src="Screenshots/1.png" alt="Screenshot 1" width="250">
+  <img src="Screenshots/2.png" alt="Screenshot 2" width="250">
+  <img src="Screenshots/3.png" alt="Screenshot 3" width="250">
+  <img src="Screenshots/4.png" alt="Screenshot 4" width="250">
+  <img src="Screenshots/5.png" alt="Screenshot 5" width="250">
+  <img src="Screenshots/6.png" alt="Screenshot 6" width="250">
+  <img src="Screenshots/7.png" alt="Screenshot 7" width="250">
+  <img src="Screenshots/8.png" alt="Screenshot 8" width="250">
+  <img src="Screenshots/9.png" alt="Screenshot 9" width="250">
+</div>
 
 ## 📦 App Info
 - **Name:** SmartGPA  
