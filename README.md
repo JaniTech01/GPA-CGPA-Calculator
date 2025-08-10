@@ -1,62 +1,42 @@
-# 🎓 SmartGPA – GPA & CGPA Calculator (GCUF Based)
+# 🎓 SmartGPA – GPA & CGPA Calculator (GCUF)
 
-**SmartGPA** is a simple and smart app made for **BS-level students at Government College University Faisalabad (GCUF)**. It helps you calculate your **GPA** and **CGPA** easily using official university rules and formulas.
+**SmartGPA** is a lightweight GPA & CGPA calculator made for **BS-level students at Government College University Faisalabad (GCUF)**.  
+It follows **official GCUF grading rules** to give accurate results every time.
 
 ---
 
-## 🚀 What Can SmartGPA Do?
-
-- ✅ Calculate **CGPA** using subject **marks and credit hours**
-- ✅ Calculate **GPA** using **CGPAs of previous semesters**
-- ✅ Follows **GCUF’s official grading rules and logic**
-- ✅ Clean and easy-to-use interface
-- ✅ Built with real student needs in mind
+## ✨ Features
+- 📊 Calculate **CGPA** from subject marks & credit hours  
+- 📈 Calculate **GPA** from semester CGPAs  
+- ✅ 100% based on GCUF grading policy  
+- 💡 Simple, clean, and offline-ready
 
 ---
 
 ## 🧮 How It Works
-
-### 🔹 CGPA Calculation
-To calculate CGPA, SmartGPA asks for:
-- Subject-wise **marks** (e.g., 85, 74, etc.)
-- Corresponding **credit hours**
-
-The app:
-1. Converts marks into grade points based on GCUF rules
-2. Multiplies each grade point by its credit hours
-3. Divides the total by overall credit hours to give your **CGPA**
-
-### 🔹 GPA Calculation
-To calculate GPA, SmartGPA asks only for:
-- The **CGPAs of previous semesters**
-
-It then:
-- Computes the weighted average GPA
-- Gives you your **updated GPA**, helping you track performance
-
-This makes it ideal for students who already know their semester CGPAs and just want to calculate their overall average.
+- **CGPA Mode** → Enter marks & credit hours for each subject  
+- **GPA Mode** → Enter CGPAs for all semesters so far  
+- App applies GCUF’s formula and shows results instantly
 
 ---
 
-## 👨‍🎓 Who Should Use SmartGPA?
+## 📸 Screenshots
 
-SmartGPA is perfect for:
-
-- BS students at **GCUF**
-- Students who want to **track and predict academic progress**
-- Anyone who needs a **reliable GPA/CGPA calculator** made for local university rules
+| | | |
+|---|---|---|
+| ![1](Screenshots/1.png) | ![2](Screenshots/2.png) | ![3](Screenshots/3.png) |
+| ![4](Screenshots/4.png) | ![5](Screenshots/5.png) | ![6](Screenshots/6.png) |
+| ![7](Screenshots/7.png) | ![8](Screenshots/8.png) | ![9](Screenshots/9.png) |
 
 ---
 
-## 📦 App Information
-
-- **App Name:** SmartGPA  
+## 📦 App Info
+- **Name:** SmartGPA  
 - **Made By:** Janitech  
-- **For:** BS students (GCUF system)  
-- **Formula Base:** GCUF grading policy  
-- **Works Offline:** ✅ Yes (if installed locally)
+- **For:** BS Students (GCUF)  
+- **Works Offline:** ✅ Yes
 
 ---
 
 ## 📄 License
-
+MIT License – free to use, modify, and share with credit.
